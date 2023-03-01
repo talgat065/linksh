@@ -1,4 +1,6 @@
-## ShortMate Fast and Reliable Link Shortener Service Welcome to ShortMate - the ultimate link shortener service that makes sharing long URLs a breeze!
+## ShortMate Fast and Reliable Link Shortener Service
+
+Welcome to ShortMate - the ultimate link shortener service that makes sharing long URLs a breeze!
 
 ShortMate is a fast, reliable, and secure link shortener service that helps you shorten long, complex URLs into short, memorable links. Our platform allows you to create custom links that are easy to remember and share with your friends, family, or followers on social media platforms like Twitter, Facebook, LinkedIn, and more.
 
