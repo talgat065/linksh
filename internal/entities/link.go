@@ -8,9 +8,9 @@ import (
 var ErrLinkNotFound = errors.New("link not found")
 
 type Link struct {
-	ID       valueobjects.ID
-	FullURL  valueobjects.URL
-	ShortURL valueobjects.URL
+	ID       valueobjects.ID  `json:"id"`
+	FullURL  valueobjects.URL `json:"full_url"`
+	ShortURL valueobjects.URL `json:"short_url"`
 }
 
 type LinkRepository interface {
